@@ -11,12 +11,11 @@ My name is Pavle Mihailovski and I am Computer Science Student at University of 
 3. E- mail: pavlemihailovski@yahoo.com  
 4. [Link] (https://github.com/lagudanec
 
-[Link](url) and ![Image](https://yt3.ggpht.com/a/AGF-l7-AyXbEgAjNU6OyXSjQlXJXRmzrBHBhAF__0w=s900-c-k-c0xffffffff-no-rj-mo)
-```
-
-### Jekyll Themes
+![Image](https://yt3.ggpht.com/a/AGF-l7-AyXbEgAjNU6OyXSjQlXJXRmzrBHBhAF__0w=s900-c-k-c0xffffffff-no-rj-mo)
 
 
 
-### Support or Contact
+
+
+
 
